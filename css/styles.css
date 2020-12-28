@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    font-size: 16px;
+}
+.section-1{
+    /* background-image: url(../images/bg1.jpg);
+    background-size: cover; */
+    background-color: rgb(97, 97, 97);
+    padding: 20px;
+}
+.sec-content-1{
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: 24px;
+}
